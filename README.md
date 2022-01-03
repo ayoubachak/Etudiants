@@ -1,5 +1,6 @@
 # Etudiants
-Creer la table suivante
+Creer une base de donné nommé university.
+Puis dans la meme base creer une table etudiant contenant les elements suivants:
 
 - CNE de type entier.
 - Nom de type chaˆıne de caractere de taille 25.
